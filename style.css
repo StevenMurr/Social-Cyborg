@@ -1,3 +1,8 @@
+/* button div */
+#buttons {
+  padding-top: 50px;
+  text-align: center;
+}
 .btn {
   border-radius: 5px;
   padding: 15px 25px;

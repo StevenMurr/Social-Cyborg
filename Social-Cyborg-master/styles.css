@@ -1,0 +1,59 @@
+body, html {
+  background: grey;
+}
+
+.title {
+    color: darkorange;
+    font-family: sans-serif;
+    text-align:left;
+    font-size: 45px;
+    padding-left: 95px
+}
+
+<div>
+//menu bars
+* {
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+ul {
+    background: grey;
+    margin: 40px;
+    position: relative
+    align-content: center;
+}
+ul li {
+    list-style: none;
+    text-transform: uppercase;
+    color: darkorange;
+    font-family: sans-serif;
+    float: left;
+    margin: 0 10px;
+    padding: 0 5px 5px;
+    align-content: center;
+}
+</div>
+.rectangle {
+    width: 100%;
+    height: 10px;
+    background: grey;
+    color: grey;
+    text-decoration-color: grey
+    
+}
+
+.social_cyborg_image{
+    float: right;
+    padding-right: 95px
+        
+}
+.p{
+    color: coral;
+    padding-left: 95px;
+}
+.gif {
+   padding-top: 250px;
+    width: 50%;
+    height: 50%
+}

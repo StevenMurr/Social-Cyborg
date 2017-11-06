@@ -45,15 +45,26 @@ ul li {
 
 .social_cyborg_image{
     float: right;
-    padding-right: 95px
+    padding-right: 95px;
+    padding-left: 25px
         
 }
 .p{
     color: coral;
     padding-left: 95px;
+    font-family: sans-serif;
+    font-size: 30px;
+    
 }
 .gif {
    padding-top: 250px;
     width: 50%;
     height: 50%
+}
+.data
+{
+    width: 400px;
+    margin: 30px;
+    margin-left: 55px
+    
 }
